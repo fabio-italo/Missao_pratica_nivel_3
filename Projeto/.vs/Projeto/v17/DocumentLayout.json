@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\public\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\LivroDados.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\LivroLista.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\App.tsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\Projeto\\Livro.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|solutionrelative:Livro.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\Projeto\\Editora.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|NewFolder1{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}|solutionrelative:Editora.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroLista.js",
+              "DocumentMoniker": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\LivroLista.js",
+              "RelativeDocumentMoniker": "..\\src\\LivroLista.js",
+              "ToolTip": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\LivroLista.js",
+              "RelativeToolTip": "..\\src\\LivroLista.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T01:44:08.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroDados.js",
+              "DocumentMoniker": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\LivroDados.js",
+              "RelativeDocumentMoniker": "..\\src\\LivroDados.js",
+              "ToolTip": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\LivroDados.js",
+              "RelativeToolTip": "..\\src\\LivroDados.js",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T01:37:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\App.tsx",
+              "RelativeDocumentMoniker": "..\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\src\\App.tsx",
+              "RelativeToolTip": "..\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T01:09:08.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\public\\index.html",
+              "RelativeDocumentMoniker": "..\\public\\index.html",
+              "ToolTip": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\public\\index.html",
+              "RelativeToolTip": "..\\public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-28T01:04:06.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.ts",
+              "DocumentMoniker": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\Projeto\\Livro.ts",
+              "RelativeDocumentMoniker": "Livro.ts",
+              "ToolTip": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\Projeto\\Livro.ts",
+              "RelativeToolTip": "Livro.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T01:02:30.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Editora.ts",
+              "DocumentMoniker": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\Projeto\\Editora.ts",
+              "RelativeDocumentMoniker": "Editora.ts",
+              "ToolTip": "C:\\Users\\enild\\OneDrive\\Documentos\\Fullstack\\job3\\livros-react\\Projeto\\Editora.ts",
+              "RelativeToolTip": "Editora.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T01:02:16.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modelo", "modelo", "{BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}"
+	ProjectSection(SolutionItems) = preProject
+		..\src\App.tsx = ..\src\App.tsx
+		..\src\controle\ControleEditora.ts = ..\src\controle\ControleEditora.ts
+		..\src\controle\ControleLivros.ts = ..\src\controle\ControleLivros.ts
+		Editora.ts = Editora.ts
+		..\public\index.html = ..\public\index.html
+		Livro.ts = Livro.ts
+		..\src\LivroDados.js = ..\src\LivroDados.js
+		..\src\LivroLista.js = ..\src\LivroLista.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "controle", "controle", "{4A7D493C-1B69-46CA-A5DA-A4BC8B30F7B9}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A7D493C-1B69-46CA-A5DA-A4BC8B30F7B9} = {BC5F0E7D-8885-4DB6-91DD-35DE15AEC82D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F81E6F-742B-448D-BA43-9F3CB81245E5}
+	EndGlobalSection
+EndGlobal
